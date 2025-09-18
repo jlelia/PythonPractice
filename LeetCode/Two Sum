@@ -1,0 +1,9 @@
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        history = {}
+        for i,num in enumerate(nums):
+            partner = target - num
+            if partner in history:
+                return [history[partner], i]
+            else:
+                history[num] = i
