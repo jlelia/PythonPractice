@@ -7,4 +7,5 @@ I began programming in 2024 and jumped right into projects. The advantage is all
 The following is a list of where I am drawing practice materials from, which will be organized into subdirectories:
 - [Python Programming Exercises, Gently Explained](https://inventwithpython.com/pythongently/) by Al Sweigart
 - [Project Euler](https://projecteuler.net/) by various contributors
+- [LeetCode](https://leetcode.com) by various contributors
 - [misc](misc/) for files I made for fun or to help teach others
